@@ -1,2 +1,2 @@
-# viralmms
-viralmms
+[viralmms](https://viralmms.pages.dev)
+Fork the [repository](https://github.com/harlahsaduki) on GitHub.
